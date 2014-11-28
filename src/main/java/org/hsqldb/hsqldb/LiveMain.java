@@ -6,6 +6,7 @@ import org.hibernate.Session;
 
 import dao.CommandeDao;
 import db.HibernateUtils;
+import domain.CommandeStatus;
 import domain.LigneCommande;
 
 public class LiveMain {
@@ -15,6 +16,7 @@ public class LiveMain {
 	public static void main(String[] args) {
 		
 		try {
+			
 			
 			CommandeDao commandeDao = new CommandeDao();
 			
@@ -51,6 +53,24 @@ public class LiveMain {
 			
 			//commandeDao.deleteLigneCommande(4);
 			
+			
+			// Creation STATUS_COMMAND
+			
+			/* 
+			HibernateUtils.setUp();
+			
+			Session session = HibernateUtils.getSession();
+			
+			session.beginTransaction();
+			
+			CommandeStatus status = new CommandeStatus();
+			status.setLabel("En cours de preparation");
+			session.save(status);
+			
+			session.getTransaction().commit();
+			
+			session.close();
+			*/
 		
 			HibernateUtils.tearDown();
 			

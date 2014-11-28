@@ -25,6 +25,11 @@ public class Commande {
 		
 		this.lignes.add(ligneCommande);
 	}
+	
+	public void removeLigne(LigneCommande ligneCommande){
+		
+		this.lignes.remove(ligneCommande);
+	}
 
 
 	public Integer getId() {
