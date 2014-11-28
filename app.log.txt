@@ -1,0 +1,97 @@
+2014-11-14 15:58:10,451 [main] INFO  org.hsqldb.hsqldb.App - Hello World!
+2014-11-14 15:58:10,654 [main] INFO  org.hsqldb.hsqldb.App - 1 - FCB
+2014-11-14 15:58:10,655 [main] INFO  org.hsqldb.hsqldb.App - 4 - BAYERN
+2014-11-14 15:58:10,655 [main] INFO  org.hsqldb.hsqldb.App - 5 - REAL
+2014-11-14 16:17:32,667 [main] INFO  org.hsqldb.hsqldb.App - Hello World!
+2014-11-14 16:17:32,861 [main] INFO  org.hsqldb.hsqldb.App - 1 - FCB
+2014-11-14 16:17:32,862 [main] INFO  org.hsqldb.hsqldb.App - 4 - BAYERN
+2014-11-14 16:17:32,862 [main] INFO  org.hsqldb.hsqldb.App - 5 - REAL
+2014-11-14 16:35:47,482 [main] INFO  org.hsqldb.hsqldb.App - Getting all teams
+2014-11-14 16:35:47,702 [main] INFO  org.hsqldb.hsqldb.App - Num : 1 Team Name : FCB
+2014-11-14 16:35:47,703 [main] INFO  org.hsqldb.hsqldb.App - Num : 4 Team Name : BAYERN
+2014-11-14 16:35:47,703 [main] INFO  org.hsqldb.hsqldb.App - Num : 5 Team Name : REAL
+2014-11-14 16:35:47,703 [main] INFO  org.hsqldb.hsqldb.App - Creating a new team
+2014-11-14 16:35:47,922 [main] INFO  org.hsqldb.hsqldb.App - Num : 1 Team Name : FCB
+2014-11-14 16:35:47,923 [main] INFO  org.hsqldb.hsqldb.App - Num : 4 Team Name : BAYERN
+2014-11-14 16:35:47,923 [main] INFO  org.hsqldb.hsqldb.App - Num : 5 Team Name : REAL
+2014-11-14 16:35:47,924 [main] INFO  org.hsqldb.hsqldb.App - Num : 6 Team Name : OL
+2014-11-14 16:53:10,573 [main] INFO  org.hsqldb.hsqldb.App - Getting all teams
+2014-11-14 16:53:10,792 [main] INFO  org.hsqldb.hsqldb.App - Num : 1 Team Name : FCB
+2014-11-14 16:53:10,792 [main] INFO  org.hsqldb.hsqldb.App - Num : 4 Team Name : BAYERN
+2014-11-14 16:53:10,792 [main] INFO  org.hsqldb.hsqldb.App - Num : 5 Team Name : REAL
+2014-11-14 16:53:10,792 [main] INFO  org.hsqldb.hsqldb.App - Num : 6 Team Name : OL
+2014-11-14 16:53:10,792 [main] INFO  org.hsqldb.hsqldb.App - Creating a new team
+2014-11-14 16:53:11,009 [main] INFO  org.hsqldb.hsqldb.App - Num : 1 Team Name : FCB
+2014-11-14 16:53:11,010 [main] INFO  org.hsqldb.hsqldb.App - Num : 4 Team Name : BAYERN
+2014-11-14 16:53:11,010 [main] INFO  org.hsqldb.hsqldb.App - Num : 5 Team Name : REAL
+2014-11-14 16:53:11,010 [main] INFO  org.hsqldb.hsqldb.App - Num : 6 Team Name : OL
+2014-11-14 16:53:11,010 [main] INFO  org.hsqldb.hsqldb.App - Num : 7 Team Name : OL
+2014-11-14 16:53:11,010 [main] INFO  org.hsqldb.hsqldb.App - List players of team 
+2014-11-14 17:01:08,836 [main] INFO  org.hsqldb.hsqldb.App - Getting all teams
+2014-11-14 17:01:09,046 [main] INFO  org.hsqldb.hsqldb.App - Team [num=1, name=FCB]
+2014-11-14 17:01:09,047 [main] INFO  org.hsqldb.hsqldb.App - Team [num=4, name=BAYERN]
+2014-11-14 17:01:09,047 [main] INFO  org.hsqldb.hsqldb.App - Team [num=5, name=REAL]
+2014-11-14 17:01:09,047 [main] INFO  org.hsqldb.hsqldb.App - Team [num=6, name=OL]
+2014-11-14 17:01:09,047 [main] INFO  org.hsqldb.hsqldb.App - Team [num=7, name=OL]
+2014-11-14 17:01:09,047 [main] INFO  org.hsqldb.hsqldb.App - Creating a new team
+2014-11-14 17:01:09,264 [main] INFO  org.hsqldb.hsqldb.App - Team [num=1, name=FCB]
+2014-11-14 17:01:09,265 [main] INFO  org.hsqldb.hsqldb.App - Team [num=4, name=BAYERN]
+2014-11-14 17:01:09,265 [main] INFO  org.hsqldb.hsqldb.App - Team [num=5, name=REAL]
+2014-11-14 17:01:09,265 [main] INFO  org.hsqldb.hsqldb.App - Team [num=6, name=OL]
+2014-11-14 17:01:09,265 [main] INFO  org.hsqldb.hsqldb.App - Team [num=7, name=OL]
+2014-11-14 17:01:09,265 [main] INFO  org.hsqldb.hsqldb.App - Team [num=8, name=OL]
+2014-11-14 17:01:09,266 [main] INFO  org.hsqldb.hsqldb.App - List players of team : 5
+2014-11-14 17:01:09,375 [main] INFO  org.hsqldb.hsqldb.App - Player [num=5, name=Jemmy, numero=null, equipeId=null]
+2014-11-14 17:01:09,375 [main] INFO  org.hsqldb.hsqldb.App - Player [num=5, name=Dan, numero=null, equipeId=null]
+2014-11-14 17:01:09,375 [main] INFO  org.hsqldb.hsqldb.App - Player [num=5, name=Luck, numero=null, equipeId=null]
+2014-11-14 17:02:56,506 [main] INFO  org.hsqldb.hsqldb.App - Getting all teams
+2014-11-14 17:02:56,716 [main] INFO  org.hsqldb.hsqldb.App - Team [num=1, name=FCB]
+2014-11-14 17:02:56,716 [main] INFO  org.hsqldb.hsqldb.App - Team [num=4, name=BAYERN]
+2014-11-14 17:02:56,716 [main] INFO  org.hsqldb.hsqldb.App - Team [num=5, name=REAL]
+2014-11-14 17:02:56,716 [main] INFO  org.hsqldb.hsqldb.App - Team [num=6, name=OL]
+2014-11-14 17:02:56,716 [main] INFO  org.hsqldb.hsqldb.App - Team [num=7, name=OL]
+2014-11-14 17:02:56,716 [main] INFO  org.hsqldb.hsqldb.App - Team [num=8, name=OL]
+2014-11-14 17:02:56,716 [main] INFO  org.hsqldb.hsqldb.App - Creating a new team
+2014-11-14 17:02:56,930 [main] INFO  org.hsqldb.hsqldb.App - Team [num=1, name=FCB]
+2014-11-14 17:02:56,930 [main] INFO  org.hsqldb.hsqldb.App - Team [num=4, name=BAYERN]
+2014-11-14 17:02:56,930 [main] INFO  org.hsqldb.hsqldb.App - Team [num=5, name=REAL]
+2014-11-14 17:02:56,931 [main] INFO  org.hsqldb.hsqldb.App - Team [num=6, name=OL]
+2014-11-14 17:02:56,931 [main] INFO  org.hsqldb.hsqldb.App - Team [num=7, name=OL]
+2014-11-14 17:02:56,931 [main] INFO  org.hsqldb.hsqldb.App - Team [num=8, name=OL]
+2014-11-14 17:02:56,931 [main] INFO  org.hsqldb.hsqldb.App - Team [num=9, name=OL]
+2014-11-14 17:02:56,931 [main] INFO  org.hsqldb.hsqldb.App - List players of team : 5
+2014-11-14 17:02:57,036 [main] INFO  org.hsqldb.hsqldb.App - Player [num=2, name=Jemmy, numero=5, equipeId=5]
+2014-11-14 17:02:57,036 [main] INFO  org.hsqldb.hsqldb.App - Player [num=1, name=Dan, numero=8, equipeId=5]
+2014-11-14 17:02:57,036 [main] INFO  org.hsqldb.hsqldb.App - Player [num=0, name=Luck, numero=10, equipeId=5]
+2014-11-14 17:12:53,217 [main] INFO  org.hsqldb.hsqldb.App - Getting all teams
+2014-11-14 17:12:53,423 [main] INFO  org.hsqldb.hsqldb.App - Team [num=1, name=FCB]
+2014-11-14 17:12:53,424 [main] INFO  org.hsqldb.hsqldb.App - Team [num=4, name=BAYERN]
+2014-11-14 17:12:53,424 [main] INFO  org.hsqldb.hsqldb.App - Team [num=5, name=REAL]
+2014-11-14 17:12:53,424 [main] INFO  org.hsqldb.hsqldb.App - Team [num=6, name=OL]
+2014-11-14 17:12:53,424 [main] INFO  org.hsqldb.hsqldb.App - Team [num=7, name=OL]
+2014-11-14 17:12:53,424 [main] INFO  org.hsqldb.hsqldb.App - Team [num=8, name=OL]
+2014-11-14 17:12:53,424 [main] INFO  org.hsqldb.hsqldb.App - Team [num=9, name=OL]
+2014-11-14 17:12:53,424 [main] INFO  org.hsqldb.hsqldb.App - Creating a new team
+2014-11-14 17:12:53,537 [main] INFO  org.hsqldb.hsqldb.App - Listing all teams
+2014-11-14 17:12:53,646 [main] INFO  org.hsqldb.hsqldb.App - Team [num=1, name=FCB]
+2014-11-14 17:12:53,646 [main] INFO  org.hsqldb.hsqldb.App - Team [num=4, name=BAYERN]
+2014-11-14 17:12:53,647 [main] INFO  org.hsqldb.hsqldb.App - Team [num=5, name=REAL]
+2014-11-14 17:12:53,647 [main] INFO  org.hsqldb.hsqldb.App - Team [num=6, name=OL]
+2014-11-14 17:12:53,647 [main] INFO  org.hsqldb.hsqldb.App - Team [num=7, name=OL]
+2014-11-14 17:12:53,647 [main] INFO  org.hsqldb.hsqldb.App - Team [num=8, name=OL]
+2014-11-14 17:12:53,647 [main] INFO  org.hsqldb.hsqldb.App - Team [num=9, name=OL]
+2014-11-14 17:12:53,648 [main] INFO  org.hsqldb.hsqldb.App - Team [num=10, name=OM]
+2014-11-14 17:12:53,648 [main] INFO  org.hsqldb.hsqldb.App - List players of team : 5
+2014-11-14 17:12:53,757 [main] INFO  org.hsqldb.hsqldb.App - Player [num=2, name=Jemmy, numero=5, equipeId=5]
+2014-11-14 17:12:53,757 [main] INFO  org.hsqldb.hsqldb.App - Player [num=1, name=Dan, numero=8, equipeId=5]
+2014-11-14 17:12:53,757 [main] INFO  org.hsqldb.hsqldb.App - Player [num=0, name=Luck, numero=10, equipeId=5]
+2014-11-21 16:07:42,628 [main] INFO  dao.CommandeDao - Finding LigneCommande with id : 4
+2014-11-21 16:07:42,645 [main] INFO  dao.CommandeDao - Ligne commande found : LigneCommande [id=4, quantite=30, label=HDD]
+2014-11-21 16:09:18,767 [main] INFO  dao.CommandeDao - Finding LigneCommande with id : 4
+2014-11-21 16:09:18,783 [main] INFO  dao.CommandeDao - Ligne commande found : LigneCommande [id=4, quantite=30, label=Bloom]
+2014-11-21 16:09:18,784 [main] INFO  org.hsqldb.hsqldb.LiveMain - LigneCommande [id=4, quantite=30, label=Bloom]
+2014-11-21 16:09:18,790 [main] INFO  dao.CommandeDao - Finding LigneCommande with id : 4
+2014-11-21 16:09:18,895 [main] INFO  dao.CommandeDao - Ligne commande found : LigneCommande [id=4, quantite=30, label=Bloom]
+2014-11-21 16:12:42,322 [main] INFO  dao.CommandeDao - Finding LigneCommande with id : 4
+2014-11-21 16:12:42,333 [main] INFO  dao.CommandeDao - Ligne commande not found : 
+2014-11-21 16:12:42,334 [main] INFO  org.hsqldb.hsqldb.LiveMain - null
