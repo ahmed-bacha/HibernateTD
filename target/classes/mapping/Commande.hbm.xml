@@ -21,16 +21,15 @@
 			<one-to-many class="LigneCommande"/>
  		</set>
 
-<!-- 		
+		
  		<many-to-one name="client" class="Client" column="CLIENT_ID" lazy="false" />
--->
 
-<!-- 		
- 		<set name="clients" table="COMMANDE_CLIENT_JOINT" lazy="false">
-			<key column="COMMANDE_ID" />
-			<many-to-many column="CLIENT_ID" class="Client" />
-		</set>
--->		
+	
+<!--  		<set name="clients" table="COMMANDE_CLIENT_JOINT" lazy="false"> -->
+<!-- 			<key column="COMMANDE_ID" /> -->
+<!-- 			<many-to-many column="CLIENT_ID" class="Client" /> -->
+<!-- 		</set> -->
+	
 		
     </class>
  

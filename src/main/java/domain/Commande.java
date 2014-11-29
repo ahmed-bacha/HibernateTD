@@ -1,6 +1,6 @@
 package domain;
 
-import java.sql.Date;
+import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -13,6 +13,8 @@ public class Commande {
 	private CommandeStatus status;
 	
 	private Set<LigneCommande> lignes;
+	
+	private Client client ;
 
 	public Commande() {
 		
@@ -44,8 +46,8 @@ public class Commande {
 		return date;
 	}
 
-	public void setDate(Date date) {
-		this.date = date;
+	public void setDate(Date date2) {
+		this.date = date2;
 	}
 
 	public CommandeStatus getStatus() {
@@ -62,6 +64,14 @@ public class Commande {
 
 	public void setLignes(Set<LigneCommande> lignes) {
 		this.lignes = lignes;
+	}
+
+	public Client getClient() {
+		return client;
+	}
+
+	public void setClient(Client client) {
+		this.client = client;
 	}
 	
 	

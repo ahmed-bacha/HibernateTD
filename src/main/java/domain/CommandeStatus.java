@@ -32,4 +32,9 @@ public class CommandeStatus {
 		this.label = label;
 	}
 
+	@Override
+	public String toString() {
+		return "CommandeStatus [id=" + id + ", label=" + label + "]";
+	}
+
 }

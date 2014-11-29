@@ -25,6 +25,10 @@
 		<mapping resource="mapping/Commande.hbm.xml"></mapping>
 		
 		<mapping resource="mapping/CommandeStatus.hbm.xml"></mapping>
+		
+		<mapping resource="mapping/Client.hbm.xml"></mapping>
+		
+		<mapping resource="mapping/Event.hbm.xml"></mapping>
 
 	</session-factory>
 </hibernate-configuration>
